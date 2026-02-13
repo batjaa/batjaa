@@ -18,7 +18,6 @@ My background spans full-stack product engineering, platform work, and developer
 
 - ⚙️ **[settings](https://github.com/batjaa/settings)** - Environment settings and personal development setup.
 - 📈 **[tendies](https://github.com/batjaa/tendies)** - Realized P&L tracker for Schwab/thinkorswim day trading.
-- 💇 **[ariguna.com](http://ariguna.com)** - Built from 0 to 1, a salon management system with booking and POS capabilities.
 
 ## Experience Highlights
 
@@ -31,6 +30,7 @@ My background spans full-stack product engineering, platform work, and developer
   - Rebuilt internal modules and marketing integrations that saved team hours weekly
 - **Fieldbook / Orbit / Independent**
   - Shipped full-stack systems across product, finance, and operations domains
+  - Built **[ariguna.com](http://ariguna.com)** from 0 to 1, a salon management system with booking and POS capabilities
 
 ## Tech
 
