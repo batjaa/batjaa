@@ -14,6 +14,12 @@ My background spans full-stack product engineering, platform work, and developer
 - Exploring AI-assisted engineering workflows and tooling
 - Sharing ideas and projects on my site and GitHub
 
+## Active Projects
+
+- ⚙️ **[settings](https://github.com/batjaa/settings)** - Environment settings and personal development setup.
+- 📈 **[tendies](https://github.com/batjaa/tendies)** - Realized P&L tracker for Schwab/thinkorswim day trading.
+- 💇 **[ariguna.com](http://ariguna.com)** - Built from 0 to 1, a salon management system with booking and POS capabilities.
+
 ## Experience Highlights
 
 - **Amazon** - Senior Software Development Engineer (Jun 2020 - Jul 2022)
@@ -48,11 +54,6 @@ My background spans full-stack product engineering, platform work, and developer
 - Website: https://batjaa.com
 - GitHub: https://github.com/batjaa
 - Blog + featured posts: https://batjaa.com/#blog
-
-## Active Projects
-
-- ⚙️ **[settings](https://github.com/batjaa/settings)** - Environment settings and personal development setup.
-- 📈 **[tendies](https://github.com/batjaa/tendies)** - Realized P&L tracker for Schwab/thinkorswim day trading.
 
 ## Find Me
 
