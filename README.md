@@ -49,6 +49,11 @@ My background spans full-stack product engineering, platform work, and developer
 - GitHub: https://github.com/batjaa
 - Blog + featured posts: https://batjaa.com/#blog
 
+## Active Projects
+
+- ⚙️ **[settings](https://github.com/batjaa/settings)** - Environment settings and personal development setup.
+- 📈 **[tendies](https://github.com/batjaa/tendies)** - Realized P&L tracker for Schwab/thinkorswim day trading.
+
 ## Find Me
 
 <p>
