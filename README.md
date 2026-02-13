@@ -1,30 +1,48 @@
-<h1 align="center">Batjaa</h1>
-<p align="center">
-  Building useful things with software, data, and AI.
-</p>
+## Hey, I'm Batjaa (Batjargal Batbold)
 
-<p align="center">
-  <a href="https://github.com/batjaa">GitHub</a> •
-  <a href="https://www.linkedin.com/in/batjaa">LinkedIn</a>
-</p>
+Engineer. Photographer. Traveler.
 
-## About
-- I ship practical products and tools.
-- I care about clear UX, performance, and maintainable systems.
-- I like turning messy workflows into reliable automation.
+I build software that solves concrete problems and is enjoyable to use.
+My background spans full-stack product engineering, platform work, and developer tooling.
 
-## Current Focus
-- AI-assisted developer workflows
-- Small products with tight feedback loops
-- Clean frontend/backend integration
+`Palo Alto, CA`  
+`batjaa.com` → https://batjaa.com
 
-## Selected Repositories
-- [`tendies`](https://github.com/batjaa/tendies)
-- [`blog`](https://github.com/batjaa/blog)
-- [`settings`](https://github.com/batjaa/settings)
+## What I'm Doing
 
-## Tech I Use
-`TypeScript` `Python` `React` `Node.js` `PostgreSQL` `Docker`
+- Building practical applications and automation-heavy workflows
+- Exploring AI-assisted engineering workflows and tooling
+- Sharing ideas and projects on my site and GitHub
+
+## Experience Highlights
+
+- **Amazon** - Senior Software Development Engineer (Jun 2020 - Jul 2022)
+  - Built cross-language consistency test pipelines
+  - Redesigned high-throughput string services with better caching strategies
+  - Built JS/TS i18n tooling used by engineers across Amazon
+- **Quartzy** - Software Engineer (Jun 2015 - Jun 2020)
+  - Refactored major frontend systems and improved developer velocity
+  - Rebuilt internal modules and marketing integrations that saved team hours weekly
+- **Fieldbook / Orbit / Independent**
+  - Shipped full-stack systems across product, finance, and operations domains
+
+## Tech
+
+`Go` `JavaScript/TypeScript` `React` `Node.js` `Java` `C#` `HTML/CSS` `PHP`
+
+## Writing and Projects
+
+- Website: https://batjaa.com
+- GitHub: https://github.com/batjaa
+- Blog + featured posts: https://batjaa.com/#blog
+
+## Find Me
+
+- LinkedIn: https://www.linkedin.com/in/batjargalbatbold/
+- X: https://twitter.com/batjaabatbold/
+- YouTube: https://www.youtube.com/c/BatjargalBatbold
+- Instagram: https://www.instagram.com/batjaa.batbold/
 
 ---
-<p align="center"><sub>Open to collaboration on practical, product-focused projects.</sub></p>
+
+If you're building useful products, I am always happy to connect.
