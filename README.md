@@ -40,10 +40,12 @@ My background spans full-stack product engineering, platform work, and developer
 
 ## Find Me
 
-- LinkedIn: https://www.linkedin.com/in/batjargalbatbold/
-- X: https://twitter.com/batjaabatbold/
-- YouTube: https://www.youtube.com/c/BatjargalBatbold
-- Instagram: https://www.instagram.com/batjaa.batbold/
+<p>
+  <a href="https://www.linkedin.com/in/batjargalbatbold/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Batjargal%20Batbold-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/batjaabatbold/"><img alt="X" src="https://img.shields.io/badge/X-@batjaabatbold-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.youtube.com/c/BatjargalBatbold"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Batjargal%20Batbold-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.instagram.com/batjaa.batbold/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@batjaa.batbold-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
 ---
 
