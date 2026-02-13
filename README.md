@@ -28,7 +28,9 @@ My background spans full-stack product engineering, platform work, and developer
 
 ## Tech
 
-`Go` `JavaScript/TypeScript` `React` `Node.js` `Java` `C#` `HTML/CSS` `PHP`
+<p>
+  <img src="https://skillicons.dev/icons?i=go,js,ts,react,nodejs,java,cs,html,css,php,docker,postgres&perline=6" alt="Tech stack icons" />
+</p>
 
 ## Writing and Projects
 
