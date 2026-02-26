@@ -20,6 +20,7 @@ My background spans full-stack product engineering, platform work, and developer
 - 📈 **[tendies](https://github.com/batjaa/tendies)** - Realized P&L tracker for Schwab/thinkorswim day trading.
 - ✍️ **[blog](https://github.com/batjaa/blog)** - My blog and newsletter.
 - 🛒 **[tsas.mn](https://tsas.mn)** - An ecommerce website.
+- 📸 **[fotopass](https://fotopass.app)** - Your photo pass for sharing and delivering photos.
 
 ## Experience Highlights
 
