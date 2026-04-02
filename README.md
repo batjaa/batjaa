@@ -16,11 +16,15 @@ My background spans full-stack product engineering, platform work, and developer
 
 ## Active Projects
 
-- ⚙️ **[settings](https://github.com/batjaa/settings)** - Environment settings and personal development setup.
-- 📈 **[tendies](https://github.com/batjaa/tendies)** - Realized P&L tracker for Schwab/thinkorswim day trading.
-- ✍️ **[blog](https://github.com/batjaa/blog)** - My blog and newsletter.
-- 🛒 **[tsas.mn](https://tsas.mn)** - An ecommerce website.
-- 📸 **[fotopass](https://fotopass.app)** - Your photo pass for sharing and delivering photos.
+| | Project | Description |
+|---|---|---|
+| <a href="https://plotling.app"><img src="https://plotling.app/og-image.jpg" width="300"></a> | 📖 **[Plotling](https://plotling.app)** | Turn a moment from your day into an illustrated bedtime story starring your kids. |
+| <a href="https://heyanda.mn"><img src="https://heyanda.mn/og-image.png" width="300"></a> | 💬 **[Anda](https://heyanda.mn)** | A conversational journaling app that remembers what matters to you. |
+| <a href="https://fotopass.app"><img src="https://fotopass.app/images/og-default.png" width="300"></a> | 📸 **[Fotopass](https://fotopass.app)** | Your photo pass for sharing and delivering photos. |
+| <a href="https://tsas.mn"><img src="https://tsas.mn/images/tsas-preview.png" width="300"></a> | 🛒 **[tsas.mn](https://tsas.mn)** | An ecommerce website. |
+| | 📈 **[tendies](https://github.com/batjaa/tendies)** | Realized P&L tracker for Schwab/thinkorswim day trading. |
+| | ✍️ **[blog](https://github.com/batjaa/blog)** | My blog and newsletter. |
+| | ⚙️ **[settings](https://github.com/batjaa/settings)** | Environment settings and personal development setup. |
 
 ## Experience Highlights
 
@@ -56,7 +60,7 @@ My background spans full-stack product engineering, platform work, and developer
 
 - Website: https://batjaa.com
 - GitHub: https://github.com/batjaa
-- Blog + featured posts: https://batjaa.com/#blog
+- Newsletter: https://batjaa.com/newsletter
 
 ## Find Me
 
